@@ -1,4 +1,6 @@
 
 
 
-print("Yay, this is first Tutorial!!!!!!")
+print("Trying...")
+
+print("It worked!")
